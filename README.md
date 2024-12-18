@@ -98,4 +98,4 @@ Contributions are welcome! Please feel free to submit issues or pull requests. T
 
 ## License
 
-This project is licensed under the GPL 3.0 License. See the liscense file for details.
+This project is licensed under the GPL-3.0 License. See the license file for details.
