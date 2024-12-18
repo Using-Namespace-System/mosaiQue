@@ -1,4 +1,4 @@
-# Your Library Name
+# mosaiQue
 
 A Python library for applying quantum convolutions with PennyLane, designed to facilitate image processing and transformation through custom convolution layers and quantum computations.
 
